@@ -1,4 +1,4 @@
-# 🎮 Jogo do Sonic
+## 🎮 Jogo do Sonic
 
 Este é um jogo simples inspirado no **Sonic**, desenvolvido com **HTML, CSS e JavaScript**, onde o personagem precisa **pular para desviar do inimigo Eggman**.
 
